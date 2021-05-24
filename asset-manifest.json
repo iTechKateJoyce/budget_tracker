@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/budget_tracker/static/css/main.5b13c557.chunk.css",
+    "main.js": "/budget_tracker/static/js/main.aa424c95.chunk.js",
+    "main.js.map": "/budget_tracker/static/js/main.aa424c95.chunk.js.map",
+    "runtime-main.js": "/budget_tracker/static/js/runtime-main.bad9b6ea.js",
+    "runtime-main.js.map": "/budget_tracker/static/js/runtime-main.bad9b6ea.js.map",
+    "static/js/2.27e4cf76.chunk.js": "/budget_tracker/static/js/2.27e4cf76.chunk.js",
+    "static/js/2.27e4cf76.chunk.js.map": "/budget_tracker/static/js/2.27e4cf76.chunk.js.map",
+    "static/js/3.4b7a4fb4.chunk.js": "/budget_tracker/static/js/3.4b7a4fb4.chunk.js",
+    "static/js/3.4b7a4fb4.chunk.js.map": "/budget_tracker/static/js/3.4b7a4fb4.chunk.js.map",
+    "index.html": "/budget_tracker/index.html",
+    "static/css/main.5b13c557.chunk.css.map": "/budget_tracker/static/css/main.5b13c557.chunk.css.map",
+    "static/js/2.27e4cf76.chunk.js.LICENSE.txt": "/budget_tracker/static/js/2.27e4cf76.chunk.js.LICENSE.txt",
+    "static/media/blobs.d2f27555.svg": "/budget_tracker/static/media/blobs.d2f27555.svg",
+    "static/media/fullDesign.4ea8077a.svg": "/budget_tracker/static/media/fullDesign.4ea8077a.svg",
+    "static/media/quickmathslogo.0507ab28.png": "/budget_tracker/static/media/quickmathslogo.0507ab28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad9b6ea.js",
+    "static/js/2.27e4cf76.chunk.js",
+    "static/css/main.5b13c557.chunk.css",
+    "static/js/main.aa424c95.chunk.js"
+  ]
+}
